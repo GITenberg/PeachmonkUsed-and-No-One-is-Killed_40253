@@ -1,0 +1,25 @@
+_repo: PeachmonkUsed-and-No-One-is-Killed_40253
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40253-h/images/cover.png
+creator:
+  author:
+    agent_name: Eyerman, John
+    gutenberg_agent_id: '40507'
+    url: http://www.gutenberg.org/2009/agents/40507
+description: A story made up of book titles.
+gutenberg_issued: '2012-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction'
+- !lcc 'PS'
+title: "Peachmonk\r\nA Serio-Comic Detective Tale in Which No Fire-Arms Are Used and\
+  \ No One is Killed"
+url: http://www.gutenberg.org/ebooks/40253
